@@ -71,8 +71,8 @@ class Message(object):
             self.valid_words (list, determined using helper function load_words)
         '''
         self.message_text = text
-        self.valid_words = []
-        pass #delete this line and replace with your code here
+        self.valid_words = load_words(WORDLIST_FILENAME)
+         #delete this line and replace with your code here
 
     def get_message_text(self):
         '''
@@ -88,7 +88,11 @@ class Message(object):
         This helps you avoid accidentally mutating class attributes.
         
         Returns: a COPY of self.valid_words
+
         '''
+
+       
+
         return self.valid_words.copy()
          #delete this line and replace with your code here
 
@@ -240,7 +244,7 @@ class CiphertextMessage(Message):
         '''
         num_valid_words = 0
         shift_value = 0
-        wordlist = load_words(WORDLIST_FILENAME)
+        wordlist = self.valid_words
         decrypt_message = ""
 
         for x in range (0,27):
