@@ -25,7 +25,7 @@
 
 (define H-WIDTH 100)
 (define H-HEIGHT 50)
-(define BACKGROUND-SCENE (empty-scene 100 50 "black"))
+(define BACKGROUND-SCENE (empty-scene 102 52 "black"))
 
 (define SCENE (empty-scene WIDTH HEIGHT "white"))
 
@@ -43,16 +43,13 @@
 ;; if WS x is odd render cat2 else cat 1
 (define (render ws)
 
-    (if (> 1 0)
+    
         (overlay/align "left" "top"
  (place-image (overlay/align "left" "bottom" (rectangle (VCat-happiness ws) 50 "solid" "green")
-(rectangle H-WIDTH H-HEIGHT "solid" "red")) (/ H-WIDTH 2)  (/ H-HEIGHT 2) BACKGROUND-SCENE
+(rectangle H-WIDTH H-HEIGHT "solid" "red")) (+ 1 (/ H-WIDTH 2))  (+ 1(/ H-HEIGHT 2)) BACKGROUND-SCENE
  ) (place-image cat (VCat-x ws) (/ HEIGHT 2) SCENE))
-  (overlay (place-image 
-(rectangle H-WIDTH H-HEIGHT "solid" "red") (/ H-WIDTH 2)  (/ H-HEIGHT 2) BACKGROUND-SCENE
- ) (place-image cat (VCat-x ws) (/ HEIGHT 2) SCENE))
-  ))
-  
+ 
+  )
 
 
 ;; WS -> Boolean
