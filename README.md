@@ -104,5 +104,5 @@ but specifically chosen to meet the following criteria.
 | Completed | Courses | Institution | Duration | Effort | Prerequisites | Completed Assignments |
 | :--: | :-- | :--: | :--: | :--: | :--: | :--: |
 | &#9745;  | [How to Code Simple Data](https://www.edx.org/course/how-to-code-simple-data) | UBC | 6 weeks | 2-3 hours/week | none | [assignments](https://github.com/JamesMcGahn/OSSU/tree/main/core_cs/how_to_code_simple_data)
-| &#9744;  | [How to Code Complex Data](https://www.edx.org/course/how-to-code-complex-data) | UBC | 6 weeks | 2-3 hours/week | HTC Simple Data |
+| &#9744;  | [How to Code Complex Data](https://www.edx.org/course/how-to-code-complex-data) | UBC | 6 weeks | 2-3 hours/week | HTC Simple Data | [assignments](https://github.com/JamesMcGahn/OSSU/tree/main/core_cs/how_to_code_complex_data)
 | &#9744;  | [How to Design Programs](https://htdp.org/2023-8-14/Book/index.html)| MIT Press | self-paced | 8-10 hours/week | none | [assignments](https://github.com/JamesMcGahn/OSSU/tree/main/core_cs/how_to_design_programs)
