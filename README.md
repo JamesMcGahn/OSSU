@@ -46,17 +46,7 @@ but specifically chosen to meet the following criteria.
 
 ## Prerequisites
 
-| Completed | Courses | Institution | Duration | Effort | Prerequisites | Completed Assignments |
-| :--: | :-- | :--: | :--: | :--: | :--: | :--: |
-| &#9745;  | [Early Math](https://www.khanacademy.org/math/early-math)  |  Khan Academy  | Self-paced | Self-paced | none | n/a |
-| &#9745;  | [Arithmetic ](https://www.khanacademy.org/math/arithmetic)  | Khan Academy  |Self-paced | Self-paced | Early Math | n/a |
-| &#9745;  | [Basic Geometry and Measurement ](https://www.khanacademy.org/math/basic-geo)  | Khan Academy  | Self-paced | Self-paced | Arithmetic | n/a |
-| &#9744;  | [Pre-algebra ](https://www.khanacademy.org/math/pre-algebra)  | Khan Academy  | Self-paced | Self-paced | Arithmetic | n/a |
-| &#9744;  | [Algebra 1](https://www.khanacademy.org/math/algebra)  | Khan Academy  | Self-paced | Self-paced | Pre-Algebra | n/a |
-| &#9744;  | [Geometry](https://www.khanacademy.org/math/geometry) | Khan Academy  | Self-paced | Self-paced | Algebra 1 | n/a |
-| &#9744;  | [Algebra 2](https://www.khanacademy.org/math/algebra2)  | Khan Academy  | Self-paced | Self-paced | Algebra 1 | n/a |
-| &#9744;  | [Trigonometry](https://www.khanacademy.org/math/trigonometry) | Khan Academy  | Self-paced | Self-paced | Geometry | n/a |
-| &#9744;  | [Precalculus](https://www.khanacademy.org/math/precalculus) | Khan Academy  | Self-paced | Self-paced | Algebra 2 | n/a |
+
 
 
 ## Intro CS
