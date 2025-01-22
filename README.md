@@ -2,7 +2,7 @@
 
 The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
-It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines,
+It's for those who want a proper, _well-rounded_ grounding in concepts fundamental to all computing disciplines,
 and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own,
 but with support from a worldwide community of fellow learners.
 
@@ -12,6 +12,7 @@ The courses themselves are among the very best in the world, often coming from H
 but specifically chosen to meet the following criteria.
 
 **Courses must**:
+
 - Be open for enrollment
 - Run regularly (ideally in self-paced format, otherwise running multiple times per year)
 - Be of generally high quality in teaching materials and pedagogical principles
@@ -46,9 +47,6 @@ but specifically chosen to meet the following criteria.
 
 ## Prerequisites
 
-
-
-
 ## Intro CS
 
 ### Introduction to Programming
@@ -57,10 +55,10 @@ but specifically chosen to meet the following criteria.
 `simple programs`
 `simple data structures`
 
-| Completed | Courses | Institution | Duration | Effort | Prerequisites | Completed Assignments |
-| :--: | :-- | :--: | :--: | :--: | :--: | :--: |
-| &#9745;  | [Python for Everybody](https://www.py4e.com/lessons)  |  University of Michigan  | Self-paced | Self-paced | none | n/a |
-| &#9745;  | [CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/)  |  Hardvard  | Self-paced | Self-paced | none | n/a |
+| Completed | Courses                                                                            |      Institution       |  Duration  |   Effort   | Prerequisites | Completed Assignments |
+| :-------: | :--------------------------------------------------------------------------------- | :--------------------: | :--------: | :--------: | :-----------: | :-------------------: |
+|  &#9745;  | [Python for Everybody](https://www.py4e.com/lessons)                               | University of Michigan | Self-paced | Self-paced |     none      |          n/a          |
+|  &#9745;  | [CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/) |        Hardvard        | Self-paced | Self-paced |     none      |          n/a          |
 
 ### Introduction to Computer Science
 
@@ -70,13 +68,14 @@ but specifically chosen to meet the following criteria.
 `basic data structures and algorithms`
 `and more`
 
-| Completed | Courses | Institution | Duration | Effort | Prerequisites | Completed Assignments |
-| :--: | :-- | :--: | :--: | :--: | :--: | :--: |
-| &#9745;  | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  | MIT | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [Assignments](intro_cs/6001)
+| Completed | Courses                                                                                                                                                                   | Institution | Duration |    Effort     |                            Prerequisites                             |    Completed Assignments     |
+| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------: | :------: | :-----------: | :------------------------------------------------------------------: | :--------------------------: |
+|  &#9745;  | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) |     MIT     | 9 weeks  | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [Assignments](intro_cs/6001) |
 
 ## Core CS
 
 ### Core programming
+
 **Topics covered**:
 `functional programming`
 `design for testing`
@@ -91,13 +90,14 @@ but specifically chosen to meet the following criteria.
 `Ruby`
 `and more`
 
-| Completed | Courses | Institution | Duration | Effort | Prerequisites | Completed Assignments |
-| :--: | :-- | :--: | :--: | :--: | :--: | :--: |
-| &#9745;  | [How to Code Simple Data](https://www.edx.org/course/how-to-code-simple-data) | UBC | 6 weeks | 2-3 hours/week | none | [assignments](https://github.com/JamesMcGahn/OSSU/tree/main/core_cs/how_to_code_simple_data)
-| &#9744;  | [How to Code Complex Data](https://www.edx.org/course/how-to-code-complex-data) | UBC | 6 weeks | 2-3 hours/week | HTC Simple Data | [assignments](https://github.com/JamesMcGahn/OSSU/tree/main/core_cs/how_to_code_complex_data)
-| &#9744;  | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html) | Northeastern| 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | N/A
+| Completed | Courses                                                                         | Institution  | Duration |     Effort      |                Prerequisites                |                                      Completed Assignments                                      |
+| :-------: | :------------------------------------------------------------------------------ | :----------: | :------: | :-------------: | :-----------------------------------------: | :---------------------------------------------------------------------------------------------: |
+|  &#9745;  | [How to Code Simple Data](https://www.edx.org/course/how-to-code-simple-data)   |     UBC      | 6 weeks  | 2-3 hours/week  |                    none                     |  [assignments](https://github.com/JamesMcGahn/OSSU/tree/main/core_cs/how_to_code_simple_data)   |
+|  &#9745;  | [How to Code Complex Data](https://www.edx.org/course/how-to-code-complex-data) |     UBC      | 6 weeks  | 2-3 hours/week  |               HTC Simple Data               |  [assignments](https://github.com/JamesMcGahn/OSSU/tree/main/core_cs/how_to_code_complex_data)  |
+|  &#9744;  | [Class-based Program Design](https://course.ccs.neu.edu/cs2510sp22/index.html)  | Northeastern | 13 weeks | 5-10 hours/week | Systematic Program Design, High School Math | [assignments](https://github.com/JamesMcGahn/OSSU/tree/main/core_cs/class_based_program_design) |
 
 #### Core programming - Course Recommended Reading Books
-| Completed | Courses | Institution | Duration | Effort | Book Reccomendation Course  | Completed Assignments |
-| :--: | :-- | :--: | :--: | :--: | :--: | :--: |
-| &#9744;  | [How to Design Programs](https://htdp.org/2023-8-14/Book/index.html)| MIT Press | self-paced | 8-10 hours/week | HTCSD/HTCCD | [assignments](https://github.com/JamesMcGahn/OSSU/tree/main/core_cs/how_to_design_programs)
+
+| Completed | Courses                                                              | Institution |  Duration  |     Effort      | Book Reccomendation Course |                                    Completed Assignments                                    |
+| :-------: | :------------------------------------------------------------------- | :---------: | :--------: | :-------------: | :------------------------: | :-----------------------------------------------------------------------------------------: |
+|  &#9744;  | [How to Design Programs](https://htdp.org/2023-8-14/Book/index.html) |  MIT Press  | self-paced | 8-10 hours/week |        HTCSD/HTCCD         | [assignments](https://github.com/JamesMcGahn/OSSU/tree/main/core_cs/how_to_design_programs) |
