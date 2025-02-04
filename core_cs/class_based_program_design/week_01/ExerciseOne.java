@@ -40,13 +40,22 @@ class Publisher {
 // examples and tests for the class hierarchy that represents
 // books and authors
 
-public class ExerciseOne {
-  public static void main(String[] args) {
-    Publisher newHouse = new Publisher("New House Publishing", "USA", 1992);
-    Author pat = new Author("Pat Conroy", 1948);
-    Book beaches = new Book("Beaches", pat, 20, newHouse);
+class ExampleBooks {
+
+  Publisher newHouse = new Publisher("New House Publishing", "USA", 1992);
+  Author pat = new Author("Pat Conroy", 1948);
+  Book beaches = new Book("Beaches", this.pat, 20, newHouse);
+
+  ExampleBooks() {
     System.out.println(newHouse.name);
     System.out.println(pat.name);
     System.out.println(beaches.title);
+  }
+
+}
+
+public class ExerciseOne {
+  public static void main(String[] args) {
+    ExampleBooks exampleBooks = new ExampleBooks();
   }
 }
