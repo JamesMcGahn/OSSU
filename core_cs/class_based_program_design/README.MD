@@ -11,7 +11,7 @@ https://course.ccs.neu.edu/cs2510sp22/index.html
 | :----- | :----------: | :--------------------------------------------------------------------------------------------------------------------- |
 | Week 1  |  &#9745;  | [Lecture 1: Data Definitions in Java](https://course.ccs.neu.edu/cs2510sp22/lecture1.html)                                |
 |         |  &#9745;  | [Lecture 2: Data Definitions: Unions](https://course.ccs.neu.edu/cs2510sp22/lecture2.html)                                |
-| Week 2  |  &#9744;  | [Lecture 3: Methods for Simple Classes](https://course.ccs.neu.edu/cs2510sp22/lecture3.html)                              |
+| Week 2  |  &#9745;  | [Lecture 3: Methods for Simple Classes](https://course.ccs.neu.edu/cs2510sp22/lecture3.html)                              |
 |         |  &#9744;  | [Lab 1](https://course.ccs.neu.edu/cs2510sp22/lab1.html)                                                                  |
 |         |  &#9744;  | [Lecture 4: Methods for Unions](https://course.ccs.neu.edu/cs2510sp22/lecture4.html)                                      |
 |         | &#9744;  | [Lecture 5: Methods for Self-referential Lists](https://course.ccs.neu.edu/cs2510sp22/lecture5.html)                      |
