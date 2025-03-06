@@ -308,13 +308,7 @@ class ExamplesShapes {
 	IShape s1 = new Square(new CartPt(50, 50), 30, "red");
 	IShape s2 = new Square(new CartPt(50, 50), 50, "red");
 	IShape s3 = new Square(new CartPt(20, 40), 10, "green");
-	
-	
-	IShape s4 = new Combo(this.s1, this.s2);
-	
-	
-	
-	
+		
 
 	// test the method distToOrigin in the class CartPt
 	boolean testDistToOrigin(Tester t) {

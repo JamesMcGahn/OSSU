@@ -14,7 +14,7 @@ https://course.ccs.neu.edu/cs2510sp22/index.html
 | Week 2  |  &#9745;  | [Lecture 3: Methods for Simple Classes](https://course.ccs.neu.edu/cs2510sp22/lecture3.html)                              |
 |         |  &#9745;  | [Lab 1](https://course.ccs.neu.edu/cs2510sp22/lab1.html)                                                                  |
 |         |  &#9745;  | [Lecture 4: Methods for Unions](https://course.ccs.neu.edu/cs2510sp22/lecture4.html)                                      |
-|         | &#9744;  | [Lecture 5: Methods for Self-referential Lists](https://course.ccs.neu.edu/cs2510sp22/lecture5.html)                      |
+|         | &#9745;  | [Lecture 5: Methods for Self-referential Lists](https://course.ccs.neu.edu/cs2510sp22/lecture5.html)                      |
 |         |&#9744;  |  [Assignment 1](https://course.ccs.neu.edu/cs2510sp22/assignment1.html)                                                    |
 | Week 3  |&#9744;  |  [Lecture 6: Accumulator Methods](https://course.ccs.neu.edu/cs2510sp22/lecture6.html)                                     |
 |         |&#9744;  |  [Lab 2](https://course.ccs.neu.edu/cs2510sp22/lab2.html)                                                                  |
