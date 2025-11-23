@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="/Users/jamesmcgahn/Documents/GitHub/OSSU/core_cs/class_based_program_design/EclipseJars/tester.jar"/>
-	<classpathentry kind="lib" path="/Users/jamesmcgahn/Documents/GitHub/OSSU/core_cs/class_based_program_design/EclipseJars/javalib.jar"/>
+	<classpathentry kind="lib" path="/Users/jamesmcgahn/Desktop/Code Projects/OSSU/core_cs/class_based_program_design/EclipseJars/tester.jar"/>
+	<classpathentry kind="lib" path="/Users/jamesmcgahn/Desktop/Code Projects/OSSU/core_cs/class_based_program_design/EclipseJars/javalib.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

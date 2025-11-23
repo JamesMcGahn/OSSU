@@ -51,6 +51,7 @@ class Car implements IMOT {
 class Person {
 	String name;
 	IMOT mot;
+	public int age;
 
 	Person(String name, IMOT mot) {
 		this.name = name;
